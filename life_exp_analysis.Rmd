@@ -9,6 +9,9 @@ urlcolor: "red"
 ```{r}
 library(gapminder)
 gapminder_unfiltered
+
+mean(gapminder$pop)
+  
 ```
 
 # Absract
