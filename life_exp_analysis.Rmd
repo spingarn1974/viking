@@ -1,0 +1,15 @@
+---
+title: "ExamineLifeExpectency"
+author: "James Dickens"
+date: "1/20/2021"
+output: word_document
+urlcolor: "red"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Absract
+Here, I re-examine the analysis of Oeppen and Vaupoel (2002)
+# Analysis
