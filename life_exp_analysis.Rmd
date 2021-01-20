@@ -6,8 +6,9 @@ output: word_document
 urlcolor: "red"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r}
+library(gapminder)
+gapminder_unfiltered
 ```
 
 # Absract
